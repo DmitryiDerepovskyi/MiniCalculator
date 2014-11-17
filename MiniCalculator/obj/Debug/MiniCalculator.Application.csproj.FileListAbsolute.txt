@@ -1,0 +1,6 @@
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe.config
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.pdb
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.Application.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.exe
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.pdb

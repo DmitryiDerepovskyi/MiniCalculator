@@ -1,0 +1,9 @@
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\MiniCalculator.NUnitTests.dll
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\MiniCalculator.NUnitTests.pdb
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\MiniCalculator.exe
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\MiniCalculator.pdb
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\obj\Debug\MiniCalculator.NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\obj\Debug\MiniCalculator.NUnitTests.dll
+C:\Users\Dmitry\Desktop\projects\MiniCalculator\MiniCalculator.NUnitTests\obj\Debug\MiniCalculator.NUnitTests.pdb
